@@ -1,0 +1,13 @@
+{
+  "name": "MinhaAPI",
+  "version": "1.0.0",
+  "description": "Minha primeira API RESTful. Feita seguindo um tutorial do Scotch.io",
+  "main": "server.js",
+  "author": "Murilo Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7"
+  }
+}
